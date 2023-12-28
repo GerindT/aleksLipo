@@ -2,9 +2,12 @@ import { Card } from "flowbite-react";
 
 function About() {
   return (
-    <div className="flex flex-row justify-center items-center">
+    <div
+      id="about"
+      className="flex flex-row justify-self-center md:justify-center items-center max-w-sm "
+    >
       <Card
-        className="max-w-[sm] max-h-[300px] raunded-[50px] cursor-pointer  transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 "
+        className="max-w-[sm] md:max-h-[300px] raunded-[50px] cursor-pointer  transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 "
         horizontal
         imgSrc="/test.jpg"
       >

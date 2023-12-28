@@ -6,7 +6,7 @@ import MainModal from "./MainModal";
 function MainTimeline() {
   const [openModal, setOpenModal] = React.useState(false);
   return (
-    <Timeline>
+    <Timeline id="exp">
       <Timeline.Item>
         <Timeline.Point icon={HiCalendar} />
         <Timeline.Content className="text-left">

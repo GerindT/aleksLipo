@@ -46,19 +46,19 @@ function MainNavbar() {
       </div>
       <Navbar.Toggle />
       <Navbar.Collapse className=" md:hidden">
-        <Navbar.Link href="#">
+        <Navbar.Link href="#about">
           <div className="flex flex-row self-center items-center justify-center">
             <HiUserCircle className="mr-3 h-4 w-4" />
-            Home
-          </div>
-        </Navbar.Link>
-        <Navbar.Link href="#">
-          <div className="flex flex-row self-center items-center justify-center">
-            <IoIosJournal className="mr-3 h-4 w-4" />
             About
           </div>
         </Navbar.Link>
-        <Navbar.Link href="#">
+        <Navbar.Link href="#exp">
+          <div className="flex flex-row self-center items-center justify-center">
+            <IoIosJournal className="mr-3 h-4 w-4" />
+            Experience
+          </div>
+        </Navbar.Link>
+        <Navbar.Link href="#journey">
           <div className="flex flex-row self-center items-center justify-center">
             <FaRoad className="mr-3 h-4 w-4" />
             Journey

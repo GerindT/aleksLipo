@@ -2,7 +2,7 @@ import { Accordion } from "flowbite-react";
 
 function InfoSection() {
   return (
-    <Accordion>
+    <Accordion id="journey" className="">
       <Accordion.Panel>
         <Accordion.Title>What is my Goal?</Accordion.Title>
         <Accordion.Content>

@@ -6,7 +6,7 @@ function MainFooter() {
   return (
     <Footer container>
       <Footer.Copyright href="#" by="Aleks Lipo ™" year={2024} />
-      <Footer.LinkGroup className="flex flex-row items-center ">
+      <Footer.LinkGroup className="flex flex-row items-center justify-center md:mt-[0em] mt-[1em] ">
         <Footer.Link href="#">
           <FaFacebook size={20} />
         </Footer.Link>
