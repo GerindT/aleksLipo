@@ -1,35 +1,31 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import MainNavbar from "./components/MainNavbar";
+import "./App.css";
+import MainFooter from "./components/MainFooter";
+import MainTimeline from "./components/MainTimeline";
+import MainCarusel from "./components/MainCarsusel";
+import About from "./components/About";
+import { Blockquote } from "flowbite-react";
+import InfoSection from "./components/InfoSection";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <MainNavbar />
+      {/* <Button>Click me</Button> */}
+      <Blockquote className="my-4 border-l-4 border-gray-300 bg-gray-50 p-4 dark:border-gray-500 dark:bg-gray-800">
+        Matthew 7:12 “In everything, therefore, treat people the same way you
+        want them to treat you, for this is the Law and the Prophets. "
+      </Blockquote>
+      <div className=" grid grid-cols-1 md:grid-cols-2 gap-[2em] mb-[2em]">
+        <MainCarusel />
+        <MainTimeline />
+        <About />
+        <InfoSection />
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+
+      <MainFooter />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
