@@ -1,6 +1,9 @@
-import { Card } from "flowbite-react";
+import { Button, Card } from "flowbite-react";
+import React from "react";
+import MainModal from "./MainModal";
 
 function About() {
+  const [openModal, setOpenModal] = React.useState(false);
   return (
     <div
       id="about"
@@ -20,7 +23,18 @@ function About() {
           omnis harum asperiores modi sunt facilis iste, provident magnam
           officia corporis dolore sed.
         </p>
+        <div className="flex justify-center">
+          <Button
+            className="w-[50%] "
+            outline
+            color="gray"
+            onClick={() => setOpenModal(true)}
+          >
+            My Testimony
+          </Button>
+        </div>
       </Card>
+      <MainModal openModal={openModal} setOpenModal={setOpenModal} />
     </div>
   );
 }
