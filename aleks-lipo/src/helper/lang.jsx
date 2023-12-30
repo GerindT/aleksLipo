@@ -45,7 +45,7 @@ export const en = {
         discipline has returned me to his arms. <br /> A passage from the
         scripture that reminds me to stay on this path is Proverbs 3:1-8. <br />
         This is my prayer for myself and for all believers.
-        <br /> God bless you!❤️
+        <br /> God bless you!😁
       </p>
     ),
     Button: "My testimony",
@@ -96,7 +96,7 @@ export const al = {
         Një pasazh nga shkrimi që më rikujton të qëndroj në këtë udhë është
         Fjalët e urta 3:1-8. <br />
         Kjo është lutja ime për veten dhe për të gjithë besimtarët. <br />
-        Zoti t’ju bekojë!❤️
+        Zoti t’ju bekojë!😁
       </p>
     ),
     Button: "Dëshmia ime",
