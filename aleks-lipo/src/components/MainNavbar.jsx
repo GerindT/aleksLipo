@@ -1,19 +1,21 @@
-import React, { useState } from "react";
-import { Avatar, Navbar, Button } from "flowbite-react";
+import { useState, useContext } from "react";
+import { SetLangContext } from "../App";
+import { Avatar, Navbar } from "flowbite-react";
 import { HiUserCircle } from "react-icons/hi";
 import { IoIosJournal } from "react-icons/io";
 import { FaRoad, FaFontAwesomeFlag, FaFlagUsa } from "react-icons/fa";
 
 function MainNavbar() {
   const [isChecked, setIsChecked] = useState(false);
-
+  const setLang = useContext(SetLangContext);
   const handleCheckboxChange = () => {
+    isChecked ? setLang("en") : setLang("al");
     setIsChecked(!isChecked);
   };
   return (
     <Navbar fluid rounded>
-      <Navbar.Brand href="https://flowbite-react.com">
-        <Avatar alt="User settings" img="/test.jpg" rounded />
+      <Navbar.Brand href="/">
+        <Avatar alt="User settings" img="/profile.jpg" rounded />
         <span className="self-center whitespace-nowrap text-xl font-normal ml-4 ">
           Aleks Lipo
         </span>

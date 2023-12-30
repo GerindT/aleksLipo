@@ -1,9 +1,13 @@
 import { Button, Card } from "flowbite-react";
 import React from "react";
 import MainModal from "./MainModal";
+import { useContext } from "react";
+import { LangContext } from "../App";
+import { en, al } from "../helper/lang";
 
 function About() {
   const [openModal, setOpenModal] = React.useState(false);
+  const lang = useContext(LangContext);
   return (
     <div
       id="about"
@@ -12,16 +16,13 @@ function About() {
       <Card
         className="max-w-sm md:max-h-[300px] raunded-[50px] cursor-pointer  transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 "
         horizontal
-        imgSrc="/test.jpg"
+        imgSrc="/profile.jpg"
       >
         <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-          About Me
+          {lang === "al" ? al.About.Title : en.About.Title}
         </h5>
         <p className="font-normal text-gray-700 dark:text-gray-400">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
-          consequatur mollitia ipsum deserunt? A perspiciatis beatae praesentium
-          omnis harum asperiores modi sunt facilis iste, provident magnam
-          officia corporis dolore sed.
+          {lang === "al" ? al.About.Text : en.About.Text}
         </p>
         <div className="flex justify-center">
           <Button
@@ -30,11 +31,16 @@ function About() {
             color="gray"
             onClick={() => setOpenModal(true)}
           >
-            My Testimony
+            {lang === "al" ? al.About.Button : en.About.Button}
           </Button>
         </div>
       </Card>
-      <MainModal openModal={openModal} setOpenModal={setOpenModal} />
+      <MainModal
+        openModal={openModal}
+        setOpenModal={setOpenModal}
+        title={lang === "al" ? al.About.Button : en.About.Button}
+        content={lang === "al" ? al.About.Content : en.About.Content}
+      />
     </div>
   );
 }
