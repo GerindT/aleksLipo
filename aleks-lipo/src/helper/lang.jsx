@@ -57,69 +57,118 @@ export const en = {
       Text: "I would describe the first year of Bible school like this: “God broke my heart and I'm rebuilding it.” It has been an amazing year, full of laughter, adventure, challenges, fantastic community and tears. I am thankful to God that through his grace and goodness, he has called me and kept me close to him.",
       Content: (
         <p>
-          Vitin e parë të shkollës biblike do ta përshkruaja kështu: “Perëndia
-          më theu dhe rindërtoj zemrën time.” <br />
-          Ka qënë jë vit i mrekullueshëm,plot të qeshura, aventura, sfida,
-          komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të
-          hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.
-          <br /> Për më shumë informacion mund të shikoni linkun,
+          I would describe the first year of Bible school like this: “God broke
+          my heart and I'm rebuilding it.” <br />
+          It has been an amazing year, full of laughter, adventure, challenges,
+          fantastic community and tears. I am thankful to God that through his
+          grace and goodness, he has called me and kept me close to him.
+          <br /> For more information you can see the link,
           <br />
           <a
-            href="https://torchbearers-albania.org/sq/shkolla-biblike/"
+            href="https://torchbearers-albania.org/bible-school/"
             style={{ textDecoration: "underline" }}
           >
-            https://torchbearers-albania.org/sq/shkolla-biblike/
+            https://torchbearers-albania.org/bible-school/
           </a>
           <br />
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Klasat</span>
-          <br /> Klasat ishin vërtet fantastike. Perëndia i ka përdorur ato për
-          të më thyer dhe ndërtuar. Një nga klasat e mia të preferuara ishte
-          mësimi nga libri i Predikuesit, me mësues Ëill Niven. Mund të them me
-          siguri që Zoti përdori atë mësim për të thyer zemrën time krenare.
-          Gjatë kësaj jave mesimesh, mendja ime mendonte vazhdimisht për jetën
-          time të mëparshme dhe se si me zgjedhjet e mia isha larguar nga
-          Perëndia, dhe në fund ato ishin ”Kotësi të Kotësive”. Gjatë fundit të
-          javës dhe fundit të librit, kapitulli 12 ishte një goditje e fotë në
-          zemer. Ajo që mendova ishte: “Unë dua t’i shërbej me gjithë jetën time
-          Perëndis së gjallë dhe dua ta nis që tani. Sepse do vi një kohë kur
-          sëmundja,energjit ndoshta dhe mendja do më lën.”
+          <span className="text-[1.2em] text-gray-900">Classes</span>
+          <br /> The classes were really fantastic. God has used them to break
+          me and build me up. One of my favorite classes was the lesson from the
+          book of Ecclesiastes, taught by Will Niven. I can safely say that God
+          used that lesson to break my proud heart. During this week of lessons,
+          my mind was constantly thinking about my previous life and how with my
+          choices I had strayed from God, and in the end they were "Vanity of
+          Vanities". During the end of the week and the end of the book, chapter
+          12 was a heart attack. What I thought was: "I want to serve the living
+          God with my whole life and I want to start right now. Because there
+          will come a time when the illness, the energy, maybe even the mind
+          will leave me."
           <br />
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Shërbesa lokale</span> <br />
-          Kam patur mundësin të jem pjesë e një programi të mrekullueshëm
-          përgjat 6-muajsh (shtator 2022-mars 2023). Programi i shkollës biblike
-          është I ndërtuar për të ndihmuar ne rritjen në njohuri dhe në
-          praktikë. Ne si student kemi mundësin të bëhemi pjesë e një shërbese
-          lokale. Një nga shërbesat e tyre quhet Iron sharp. Iron sharp është
-          një shërbes fotbolli që ka në qendër ndarjen e ungjillit nëpërmjet
-          sportit (fotbollit). Kjo ishte shërbesa që unë u përfshiva. Ka patur
-          shumë momente të bukura. Është kënaqësi të luash, të inkurajosh dhe te
-          bisedosh me djem që e duan futbollin (si unë). Por mund të them që për
-          mua ishte shumë sfiduese për të qen besnik në atë shërbes. Nga kjo
-          eksperienc kam kuptuar që është e vështirë të jesh besnik ndaj
-          Perëndis. Gjithashtu besnikëria është një zgjedhjë e përditshme.
-          <br /> <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Shërbesat e studentëve</span>
+          <span className="text-[1.2em] text-gray-900">Local Service</span>{" "}
           <br />
-          Shërbesa e të enjtes – E para gjë që dua të them është që, unë me zi
-          prisje për këtë shërbes. Ishte një nga gjërat e mia të preferuara në
-          shkollën biblike. Shërbesa e së enjtes kishte në focus adhurimin dhe
-          dëshmin e studentëve. Arsyeja pse ishte një nga kohët e mia të
-          preferuara ishte sepse, uë besoj që Perëndia I flet zemrave tona
-          nëpërmjet njerëzve, gjithashtu kur ne ndajmë nga jeta jonë ndihmon në
-          rritjen e komunitetit. E gjithë koha gjatë kësaj shërbese është e
-          drejtuar nga studentët.
-          <br /> Shërbesa e se djeles – Gjithashtu si shërbesa e së enjtes, kjo
-          shërbes është e drejtuar nga studentët. Ka në fokus adhurimin dhe
-          prezantimin e mësuesit që do të jetë për javën në vijim."
+          I had the opportunity to be a part of a wonderful program 6-month
+          intervals (September 2022-March 2023). The Bible school program is
+          designed to help you grow in knowledge and practice. As students, we
+          have the opportunity to become part of a local service. One of their
+          services is called Iron sharp. Iron sharp is a soccer service that
+          focuses on sharing the gospel through sports (soccer). This was the
+          service I was involved in. There were many beautiful moments. It's a
+          pleasure to play, encourage and chat with guys who love football (like
+          me). But I can say that it was very challenging for me to be faithful
+          in that service. From this experience I realized that it is difficult
+          to be faithful to God. Loyalty is also a daily choice.
+          <br /> <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">Student Services</span>
+          <br />
+          Thursday service – The first thing I want to say is that I was looking
+          forward to this service. It was one of my favorite things about Bible
+          school. Thursday's service focused on the students' worship and
+          testimony. The reason it was one of my favorite times was because, I
+          believe God speaks to our hearts through people, also when we share
+          our lives it helps grow the community. The entire time during this
+          service is student-led.
+          <br /> Sunday Service – Also like the Thursday service, this service
+          is student-led. It focuses on the worship and presentation of the
+          teacher that will be for the following week."
         </p>
       ),
     },
     Second: {
-      Title: "Shkolla biblike, viti i dytë.",
-      Content:
-        "Vitin e dytë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+      Title: "Mission week.",
+      Date: "November 2022",
+      Text: "The school has 1 mission week in its program for each semester. Students are divided into small groups and sent to local churches around Albania or abroad. For many students these weeks are their favorite. It has also been a wonderful week for me, where God has been teaching me many things.",
+      Content: (
+        <p>
+          The school has 1 mission week in its program for each semester.
+          Students are divided into small groups and sent to local churches
+          around Albania or abroad. For many students these weeks are their
+          favorite. It has also been a wonderful week for me, where God has been
+          teaching me many things.
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">
+            First week of the mission
+          </span>
+          <br />
+          I had the opportunity to serve for 9 days in a village called Dushk in
+          the city of Lushnje. For several years now in Dusk, Tobi and Mandi,
+          together with their families, are trying to plant a church. They have
+          a small building where they hold their meetings, such as the main
+          service, the youth meeting, the children's meeting, etc. During this
+          week we had the opportunity to be part of their services. It was
+          fantastic to work with young people and children. Our focus was more
+          on the youth. We also had the opportunity to help with practical me,
+          cleaning the church area. My favorite ministry was evangelizing in
+          another small village in Lushnje. Lushnja has about 80 villages in
+          total and meetings are held in only 3 of them. The village we went to
+          is called Zhamë. We had the opportunity to play with the village
+          children and tell a story from the Bible.
+          <br />
+          <img
+            src="timeline/kidsDushk.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">The program of children in Dushk</p>
+          <br />
+          <img
+            src="timeline/squadDushk.jpg"
+            alt="squadDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Dushk's Squad</p>
+          <br />
+          <img
+            src="timeline/ungjilliDushk.jpg"
+            alt="ungjilliDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Evangelization in Zhame</p>
+          <br />
+        </p>
+      ),
     },
     Third: {
       Title: "Shkolla biblike, viti i tretë.",
@@ -201,7 +250,7 @@ export const al = {
           </a>
           <br />
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Klasat</span>
+          <span className="text-[1.2em] text-gray-900">Klasat</span>
           <br /> Klasat ishin vërtet fantastike. Perëndia i ka përdorur ato për
           të më thyer dhe ndërtuar. Një nga klasat e mia të preferuara ishte
           mësimi nga libri i Predikuesit, me mësues Ëill Niven. Mund të them me
@@ -215,7 +264,8 @@ export const al = {
           sëmundja,energjit ndoshta dhe mendja do më lën.”
           <br />
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Shërbesa lokale</span> <br />
+          <span className="text-[1.2em] text-gray-900">Shërbesa lokale</span>
+          <br />
           Kam patur mundësin të jem pjesë e një programi të mrekullueshëm
           përgjat 6-muajsh (shtator 2022-mars 2023). Programi i shkollës biblike
           është I ndërtuar për të ndihmuar ne rritjen në njohuri dhe në
@@ -229,7 +279,9 @@ export const al = {
           eksperienc kam kuptuar që është e vështirë të jesh besnik ndaj
           Perëndis. Gjithashtu besnikëria është një zgjedhjë e përditshme.
           <br /> <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] ">Shërbesat e studentëve</span>
+          <span className="text-[1.2em] text-gray-900">
+            Shërbesat e studentëve
+          </span>
           <br />
           Shërbesa e të enjtes – E para gjë që dua të them është që, unë me zi
           prisje për këtë shërbes. Ishte një nga gjërat e mia të preferuara në
@@ -246,9 +298,59 @@ export const al = {
       ),
     },
     Second: {
-      Title: "Shkolla biblike, viti i dytë.",
-      Content:
-        "Vitin e dytë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+      Title: "Java e misionit.",
+      Date: "November 2022",
+      Text: "Shkolla ka në program 1 javë misioni për secalin semestër. Studentët ndahen në grupe të vogla dhe dërgohen ne kisha lokale përreth Shqipërisë ose jashtë saj. Për shumë student këto javë janë të preferuarat e tyre. Gjithashtu për mua kanë qenë javë të mrekullueshme, ku Zoti ka qenë duke më mësuarë shumë gjëra.",
+      Content: (
+        <p>
+          Shkolla ka në program 1 javë misioni për secalin semestër. Studentët
+          ndahen në grupe të vogla dhe dërgohen ne kisha lokale përreth
+          Shqipërisë ose jashtë saj. Për shumë student këto javë janë të
+          preferuarat e tyre. Gjithashtu për mua kanë qenë javë të
+          mrekullueshme, ku Zoti ka qenë duke më mësuarë shumë gjëra.
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">
+            Java e parë e misionit
+          </span>
+          <br />
+          Kam patur mundësi të jem dukë shërbyer për 9 ditë në një fshat që
+          quhet Dushk në qytetin e Lushnjes. Prej disa vitesh tani në dushk Tobi
+          dhe Mandi,bashkë me familjet e tyre, po mundohen të mbjellin një
+          kishë. Ata kanë një godinë të vogël ku po zhvillojnë takimet e tyre,si
+          shërbesa kryesore, takimi I të rinjve, takimi i fëmijëve etj. Gjatë
+          kësaj jave kemi patur mundësi të bëhemi pjesë e shërbesave të tyre.
+          Ishte fantastike te punoje me të rinjt dhe fëmijët. Fokusi jonë ishte
+          më shumë tek të rinjtë. Patëm gjithashtu mundësi të ndihmonim me punë
+          praktike, duke pastruar ambjentin e kishës. Shërbesa ime e preferuar
+          ishte ungjillizimi në një fshat tjetër të vogël në Lushnje. Lushnja ka
+          rreth 80 fshatra gjithsej dhe vetem në 3 prej tyre zhvillohen takime.
+          Fshati ku ne shkuam quhet Zhamë. Patëm mundësin që të luanim me
+          fëmijët e fshatit dhe të tregonim një histori nga bibla.
+          <br />
+          <img
+            src="timeline/kidsDushk.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Programi I femijeve ne Dushk</p>
+          <br />
+          <img
+            src="timeline/squadDushk.jpg"
+            alt="squadDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Skuadra Dushk</p>
+          <br />
+          <img
+            src="timeline/ungjilliDushk.jpg"
+            alt="ungjilliDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Ungjillizimi në Zhame</p>
+          <br />
+        </p>
+      ),
     },
     Third: {
       Title: "Shkolla biblike, viti i tretë.",

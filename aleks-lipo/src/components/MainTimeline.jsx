@@ -8,6 +8,8 @@ import { en, al } from "../helper/lang";
 
 function MainTimeline() {
   const [openModal, setOpenModal] = React.useState(false);
+  const [content, setContent] = React.useState("");
+  const [title, setTitle] = React.useState("");
   const lang = useContext(LangContext);
   return (
     <Timeline id="exp">
@@ -18,13 +20,27 @@ function MainTimeline() {
             {lang === "al" ? al.Timeline.First.Date : en.Timeline.First.Date}
           </Timeline.Time>
           <Timeline.Title>
-            {" "}
             {lang === "al" ? al.Timeline.First.Title : en.Timeline.First.Title}
           </Timeline.Title>
           <Timeline.Body>
             {lang === "al" ? al.Timeline.First.Text : en.Timeline.First.Text}
           </Timeline.Body>
-          <Button color="gray" onClick={() => setOpenModal(true)}>
+          <Button
+            color="gray"
+            onClick={() => {
+              setContent(
+                lang === "al"
+                  ? al.Timeline.First.Content
+                  : en.Timeline.First.Content
+              ),
+                setTitle(
+                  lang === "al"
+                    ? al.Timeline.First.Title
+                    : en.Timeline.First.Title
+                ),
+                setOpenModal(true);
+            }}
+          >
             {lang === "al" ? "Lexo më shumë" : "Read more"}
             <HiArrowNarrowRight className="ml-2 h-3 w-3" />
           </Button>
@@ -34,14 +50,36 @@ function MainTimeline() {
       <Timeline.Item>
         <Timeline.Point icon={HiCalendar} />
         <Timeline.Content className="text-left">
-          <Timeline.Time>March 2022</Timeline.Time>
-          <Timeline.Title> Lorem ipsum dolor sit amet. </Timeline.Title>
+          <Timeline.Time>
+            {lang === "al" ? al.Timeline.Second.Date : en.Timeline.Second.Date}
+          </Timeline.Time>
+          <Timeline.Title>
+            {lang === "al"
+              ? al.Timeline.Second.Title
+              : en.Timeline.Second.Title}
+          </Timeline.Title>
           <Timeline.Body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat
-            earum veniam impedit omnis, exercitationem, non voluptatibus sit
-            libero adipisci alias distinctio! Consectetur, iste hic eum labore
-            impedit mollitia minima voluptatum.
+            {lang === "al" ? al.Timeline.Second.Text : en.Timeline.Second.Text}
           </Timeline.Body>
+          <Button
+            color="gray"
+            onClick={() => {
+              setContent(
+                lang === "al"
+                  ? al.Timeline.Second.Content
+                  : en.Timeline.Second.Content
+              ),
+                setTitle(
+                  lang === "al"
+                    ? al.Timeline.Second.Title
+                    : en.Timeline.Second.Title
+                ),
+                setOpenModal(true);
+            }}
+          >
+            {lang === "al" ? "Lexo më shumë" : "Read more"}
+            <HiArrowNarrowRight className="ml-2 h-3 w-3" />
+          </Button>
         </Timeline.Content>
       </Timeline.Item>
       <Timeline.Item>
@@ -60,12 +98,8 @@ function MainTimeline() {
       <MainModal
         openModal={openModal}
         setOpenModal={setOpenModal}
-        content={
-          lang === "al" ? al.Timeline.First.Content : en.Timeline.First.Content
-        }
-        title={
-          lang === "al" ? al.Timeline.First.Title : en.Timeline.First.Title
-        }
+        content={content}
+        title={title}
       />
     </Timeline>
   );
