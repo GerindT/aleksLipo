@@ -50,6 +50,83 @@ export const en = {
     ),
     Button: "My testimony",
   },
+  Timeline: {
+    First: {
+      Title: "Bible school, first year.",
+      Date: "September 2022 – March 2023",
+      Text: "I would describe the first year of Bible school like this: “God broke my heart and I'm rebuilding it.” It has been an amazing year, full of laughter, adventure, challenges, fantastic community and tears. I am thankful to God that through his grace and goodness, he has called me and kept me close to him.",
+      Content: (
+        <p>
+          Vitin e parë të shkollës biblike do ta përshkruaja kështu: “Perëndia
+          më theu dhe rindërtoj zemrën time.” <br />
+          Ka qënë jë vit i mrekullueshëm,plot të qeshura, aventura, sfida,
+          komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të
+          hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.
+          <br /> Për më shumë informacion mund të shikoni linkun,
+          <br />
+          <a
+            href="https://torchbearers-albania.org/sq/shkolla-biblike/"
+            style={{ textDecoration: "underline" }}
+          >
+            https://torchbearers-albania.org/sq/shkolla-biblike/
+          </a>
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Klasat</span>
+          <br /> Klasat ishin vërtet fantastike. Perëndia i ka përdorur ato për
+          të më thyer dhe ndërtuar. Një nga klasat e mia të preferuara ishte
+          mësimi nga libri i Predikuesit, me mësues Ëill Niven. Mund të them me
+          siguri që Zoti përdori atë mësim për të thyer zemrën time krenare.
+          Gjatë kësaj jave mesimesh, mendja ime mendonte vazhdimisht për jetën
+          time të mëparshme dhe se si me zgjedhjet e mia isha larguar nga
+          Perëndia, dhe në fund ato ishin ”Kotësi të Kotësive”. Gjatë fundit të
+          javës dhe fundit të librit, kapitulli 12 ishte një goditje e fotë në
+          zemer. Ajo që mendova ishte: “Unë dua t’i shërbej me gjithë jetën time
+          Perëndis së gjallë dhe dua ta nis që tani. Sepse do vi një kohë kur
+          sëmundja,energjit ndoshta dhe mendja do më lën.”
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Shërbesa lokale</span> <br />
+          Kam patur mundësin të jem pjesë e një programi të mrekullueshëm
+          përgjat 6-muajsh (shtator 2022-mars 2023). Programi i shkollës biblike
+          është I ndërtuar për të ndihmuar ne rritjen në njohuri dhe në
+          praktikë. Ne si student kemi mundësin të bëhemi pjesë e një shërbese
+          lokale. Një nga shërbesat e tyre quhet Iron sharp. Iron sharp është
+          një shërbes fotbolli që ka në qendër ndarjen e ungjillit nëpërmjet
+          sportit (fotbollit). Kjo ishte shërbesa që unë u përfshiva. Ka patur
+          shumë momente të bukura. Është kënaqësi të luash, të inkurajosh dhe te
+          bisedosh me djem që e duan futbollin (si unë). Por mund të them që për
+          mua ishte shumë sfiduese për të qen besnik në atë shërbes. Nga kjo
+          eksperienc kam kuptuar që është e vështirë të jesh besnik ndaj
+          Perëndis. Gjithashtu besnikëria është një zgjedhjë e përditshme.
+          <br /> <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Shërbesat e studentëve</span>
+          <br />
+          Shërbesa e të enjtes – E para gjë që dua të them është që, unë me zi
+          prisje për këtë shërbes. Ishte një nga gjërat e mia të preferuara në
+          shkollën biblike. Shërbesa e së enjtes kishte në focus adhurimin dhe
+          dëshmin e studentëve. Arsyeja pse ishte një nga kohët e mia të
+          preferuara ishte sepse, uë besoj që Perëndia I flet zemrave tona
+          nëpërmjet njerëzve, gjithashtu kur ne ndajmë nga jeta jonë ndihmon në
+          rritjen e komunitetit. E gjithë koha gjatë kësaj shërbese është e
+          drejtuar nga studentët.
+          <br /> Shërbesa e se djeles – Gjithashtu si shërbesa e së enjtes, kjo
+          shërbes është e drejtuar nga studentët. Ka në fokus adhurimin dhe
+          prezantimin e mësuesit që do të jetë për javën në vijim."
+        </p>
+      ),
+    },
+    Second: {
+      Title: "Shkolla biblike, viti i dytë.",
+      Content:
+        "Vitin e dytë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+    },
+    Third: {
+      Title: "Shkolla biblike, viti i tretë.",
+      Content:
+        "Vitin e tretë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+    },
+  },
 };
 
 export const al = {
@@ -100,5 +177,83 @@ export const al = {
       </p>
     ),
     Button: "Dëshmia ime",
+  },
+  Timeline: {
+    First: {
+      Title: "Shkolla biblike, viti i parë.",
+      Date: "Shtator 2022 – Mars 2023",
+      Text: "Vitin e parë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+
+      Content: (
+        <p>
+          Vitin e parë të shkollës biblike do ta përshkruaja kështu: “Perëndia
+          më theu dhe rindërtoj zemrën time.” <br />
+          Ka qënë jë vit i mrekullueshëm,plot të qeshura, aventura, sfida,
+          komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të
+          hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.
+          <br /> Për më shumë informacion mund të shikoni linkun,
+          <br />
+          <a
+            href="https://torchbearers-albania.org/sq/shkolla-biblike/"
+            style={{ textDecoration: "underline" }}
+          >
+            https://torchbearers-albania.org/sq/shkolla-biblike/
+          </a>
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Klasat</span>
+          <br /> Klasat ishin vërtet fantastike. Perëndia i ka përdorur ato për
+          të më thyer dhe ndërtuar. Një nga klasat e mia të preferuara ishte
+          mësimi nga libri i Predikuesit, me mësues Ëill Niven. Mund të them me
+          siguri që Zoti përdori atë mësim për të thyer zemrën time krenare.
+          Gjatë kësaj jave mesimesh, mendja ime mendonte vazhdimisht për jetën
+          time të mëparshme dhe se si me zgjedhjet e mia isha larguar nga
+          Perëndia, dhe në fund ato ishin ”Kotësi të Kotësive”. Gjatë fundit të
+          javës dhe fundit të librit, kapitulli 12 ishte një goditje e fotë në
+          zemer. Ajo që mendova ishte: “Unë dua t’i shërbej me gjithë jetën time
+          Perëndis së gjallë dhe dua ta nis që tani. Sepse do vi një kohë kur
+          sëmundja,energjit ndoshta dhe mendja do më lën.”
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Shërbesa lokale</span> <br />
+          Kam patur mundësin të jem pjesë e një programi të mrekullueshëm
+          përgjat 6-muajsh (shtator 2022-mars 2023). Programi i shkollës biblike
+          është I ndërtuar për të ndihmuar ne rritjen në njohuri dhe në
+          praktikë. Ne si student kemi mundësin të bëhemi pjesë e një shërbese
+          lokale. Një nga shërbesat e tyre quhet Iron sharp. Iron sharp është
+          një shërbes fotbolli që ka në qendër ndarjen e ungjillit nëpërmjet
+          sportit (fotbollit). Kjo ishte shërbesa që unë u përfshiva. Ka patur
+          shumë momente të bukura. Është kënaqësi të luash, të inkurajosh dhe te
+          bisedosh me djem që e duan futbollin (si unë). Por mund të them që për
+          mua ishte shumë sfiduese për të qen besnik në atë shërbes. Nga kjo
+          eksperienc kam kuptuar që është e vështirë të jesh besnik ndaj
+          Perëndis. Gjithashtu besnikëria është një zgjedhjë e përditshme.
+          <br /> <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] ">Shërbesat e studentëve</span>
+          <br />
+          Shërbesa e të enjtes – E para gjë që dua të them është që, unë me zi
+          prisje për këtë shërbes. Ishte një nga gjërat e mia të preferuara në
+          shkollën biblike. Shërbesa e së enjtes kishte në focus adhurimin dhe
+          dëshmin e studentëve. Arsyeja pse ishte një nga kohët e mia të
+          preferuara ishte sepse, uë besoj që Perëndia I flet zemrave tona
+          nëpërmjet njerëzve, gjithashtu kur ne ndajmë nga jeta jonë ndihmon në
+          rritjen e komunitetit. E gjithë koha gjatë kësaj shërbese është e
+          drejtuar nga studentët.
+          <br /> Shërbesa e se djeles – Gjithashtu si shërbesa e së enjtes, kjo
+          shërbes është e drejtuar nga studentët. Ka në fokus adhurimin dhe
+          prezantimin e mësuesit që do të jetë për javën në vijim."
+        </p>
+      ),
+    },
+    Second: {
+      Title: "Shkolla biblike, viti i dytë.",
+      Content:
+        "Vitin e dytë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+    },
+    Third: {
+      Title: "Shkolla biblike, viti i tretë.",
+      Content:
+        "Vitin e tretë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+    },
   },
 };

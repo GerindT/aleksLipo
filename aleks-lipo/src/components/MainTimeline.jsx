@@ -2,28 +2,35 @@ import React from "react";
 import { Button, Timeline } from "flowbite-react";
 import { HiArrowNarrowRight, HiCalendar } from "react-icons/hi";
 import MainModal from "./MainModal";
+import { useContext } from "react";
+import { LangContext } from "../App";
+import { en, al } from "../helper/lang";
 
 function MainTimeline() {
   const [openModal, setOpenModal] = React.useState(false);
+  const lang = useContext(LangContext);
   return (
     <Timeline id="exp">
       <Timeline.Item>
         <Timeline.Point icon={HiCalendar} />
         <Timeline.Content className="text-left">
-          <Timeline.Time>February 2022</Timeline.Time>
-          <Timeline.Title> Lorem ipsum dolor sit amet. </Timeline.Title>
+          <Timeline.Time>
+            {lang === "al" ? al.Timeline.First.Date : en.Timeline.First.Date}
+          </Timeline.Time>
+          <Timeline.Title>
+            {" "}
+            {lang === "al" ? al.Timeline.First.Title : en.Timeline.First.Title}
+          </Timeline.Title>
           <Timeline.Body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel
-            recusandae accusantium rem corporis neque eligendi fugit totam quos,
-            perferendis odit cum explicabo saepe ipsam aperiam nostrum porro
-            fugiat quo velit!
+            {lang === "al" ? al.Timeline.First.Text : en.Timeline.First.Text}
           </Timeline.Body>
           <Button color="gray" onClick={() => setOpenModal(true)}>
-            Learn More
+            {lang === "al" ? "Lexo më shumë" : "Read more"}
             <HiArrowNarrowRight className="ml-2 h-3 w-3" />
           </Button>
         </Timeline.Content>
       </Timeline.Item>
+
       <Timeline.Item>
         <Timeline.Point icon={HiCalendar} />
         <Timeline.Content className="text-left">
@@ -50,7 +57,16 @@ function MainTimeline() {
           </Timeline.Body>
         </Timeline.Content>
       </Timeline.Item>
-      <MainModal openModal={openModal} setOpenModal={setOpenModal} />
+      <MainModal
+        openModal={openModal}
+        setOpenModal={setOpenModal}
+        content={
+          lang === "al" ? al.Timeline.First.Content : en.Timeline.First.Content
+        }
+        title={
+          lang === "al" ? al.Timeline.First.Title : en.Timeline.First.Title
+        }
+      />
     </Timeline>
   );
 }
