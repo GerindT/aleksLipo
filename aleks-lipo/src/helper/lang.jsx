@@ -262,6 +262,7 @@ export const en = {
           >
             https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk
           </a>
+          <br />
           <img
             src="timeline/bilisht/1.jpg"
             alt="kidsDushk"
@@ -290,6 +291,104 @@ export const en = {
           />
           <p className="text-center">Sharing stories from the bible </p>
           <br />
+        </p>
+      ),
+    },
+    Five: {
+      Title: "Bible school, second year ",
+      Date: "September 2023 – March 2024",
+      Text: "Our second-year program is for anyone who has completed a first-year Bible school at any Torchbearer center and wants further study, training and service experience in a cross-cultural setting. ",
+      Content: (
+        <p>
+          Our second-year program is for anyone who has completed a first-year
+          Bible school at any Torchbearer center and wants further study,
+          training and service experience in a cross-cultural setting. We like
+          to compare this program to the image of a set of train tracks. One
+          rail is the Word - learning, studying and discussing. The other rail
+          is practical service - serving one another and going into the field.
+          The path under the rails is community, serving as a solid foundation -
+          experiencing together the indwelling, transforming life of Christ. It
+          is here, in this intense, life-giving and life-taking community that
+          spiritual formation takes place.
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">Greece</span>
+          <br />
+          Part of the second year program are two trips to biblical
+          archaeological sites. Where do we have the opportunity to see and
+          touch places where history proves the Scriptures to be true. We had
+          the opportunity this semester to go to Greece, to the places where
+          Paul's second missionary journey was recorded. The trip was for 5 days
+          and we had a couple with us wonderful for guiding us through the
+          places we were. The places we went to were Berea, Philippi,
+          Thessaloniki, Athens, Corinth, Meteora. It was wonderful listening to
+          the writing and watching it become more real. I can honestly say that
+          my faith grew stronger. But my favorite thing was befriending Ben and
+          Candis and deepening our friendship as a group between sophomore year.
+          <br />
+          <img
+            src="timeline/greqi/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Athens</p>
+          <br />
+          <img
+            src="timeline/greqi/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">The synagogue of the Jews in Bera</p>
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">Mission week</span>
+          <br />
+          After Greece, we had a mission week on the program. Where we had the
+          opportunity to go to the countryside around Erseke to teach English in
+          the village schools and then we did one after school program for
+          children where we shared the gospel. We are welcomed in all the
+          villages well and everything goes well. It was really cool to see how
+          God used us that week even though I wasn't ready. We had many
+          beautiful moments, but one of the most beautiful for me was when I had
+          the opportunity to talk with a boy around the age of 16. I had the
+          opportunity to talk with him for a long time and I gave him a Bible.
+          As soon as he got it, I started to read it there and we read a little
+          together.
+          <br />
+          <img
+            src="timeline/greqi/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Village Qafë Zezë </p>
+          <br />
+          <img
+            src="timeline/greqi/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Village Selenicë</p>
+          <br />
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">
+            The week of learning.
+          </span>
+          <br />
+          During this first semester we had a task to prepare a lesson and
+          present it to the year first. It was a wonderful experience. We had to
+          learn the first letter of Peter. The division of the passages was done
+          in this way; the passages written on several papers We threw them into
+          a hat and chose a paper. I fell in love with 1 Peter 3:1-7, and it
+          talks about marriage. At first I was stressed about this passage but
+          God was gracious and everything went well and I got good impressions
+          from the students.
+          <br />
+          <img
+            src="timeline/greqi/5.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
         </p>
       ),
     },
@@ -593,6 +692,101 @@ export const al = {
           />
           <p className="text-center">Ndarja e historis nga bibla </p>
           <br />
+        </p>
+      ),
+    },
+    Five: {
+      Title: "Shkolla biblike, viti i dytë ",
+      Date: "Shtator 2023 – Mars 2024",
+      Text: "Programi ynë i vitit të dytë është për këdo që ka përfunduar një shkollë biblike të vitit të parë në çdo qendër të Pishtarmbajtësve dhe dëshiron studim të mëtejshëm, trajnim dhe përvojë shërbimi në një mjedis ndërkulturor. ",
+      Content: (
+        <p>
+          Programi ynë i vitit të dytë është për këdo që ka përfunduar një
+          shkollë biblike të vitit të parë në çdo qendër të Pishtarmbajtësve dhe
+          dëshiron studim të mëtejshëm, trajnim dhe përvojë shërbimi në një
+          mjedis ndërkulturor. Ne na pëlqen ta krahasojmë këtë program me
+          imazhin e një grupi binarësh treni. Një hekurudhë është Fjala - të
+          mësuarit, të studiuarit dhe të diskutuarit. Hekurudha tjetër është
+          shërbimi praktik - duke i shërbyer njëri-tjetrit dhe duke shkuar në
+          terren. Shtegu nën shina është komuniteti, duke shërbyer si një themel
+          i fortë - duke përjetuar së bashku jetën e banuar, transformuese të
+          Krishtit. Pikërisht këtu, në këtë bashkësi intensive, jetëdhënëse dhe
+          jetëmarrëse ndodh formimi shpirtëror.
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">Greqia</span>
+          <br />
+          Pjesë e programit të vitit të dytë janë dy udhëtime në vende
+          arkeologjike biblike. Ku kemi mundësin të shohim dhe prekim vende ku
+          historia provon që Shkrimet janë të vërteta. Kishim mundësi këtë
+          simestër të shkonim në Greqi, në vendet ku është rregjistruar udhëtimi
+          I dytë misionarë i Palit. Udhëtimi ishte për 5 ditë dhe sëbashku me ne
+          kishim një ciftë të mrekullueshëm që na udhëhoqën përmes vendeve ku
+          ishim. Vendet që ne shkuam, ishin Berea, Filipi,Thesaloniki,Athina,
+          Korinth, Meteora. Ishte e mrekullueshme teksa dëgjoje shkrimin dhe
+          shikoje se si ai bëhej më real. Mund të the me plot gojën qe besimi im
+          u forcua më shumë. Por gjëja e preferuar për mua ishte miqesia me Ben
+          dhe Candis dhe thellimi i shoqirisë si grup midis vitit të dytë.
+          <br />
+          <img
+            src="timeline/greqi/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Athina</p>
+          <img
+            src="timeline/greqi/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Snagoga e Judenjve ne Bera</p>
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900">Java e misionit</span>
+          <br />
+          Pas Greqisë kishim në program një javë misioni. Ku kemi patur mndësi
+          të shkojmë ne fshtra përreth Ersekes për të dhën mësim në anglisht në
+          shkollat e fshatit dhe me pas te bënim një program pas mësimit për
+          fëmijët ku dhe kemi ndarë ungjillin. Në të gjithë fshatrat jemi pritur
+          mirë dhe cdo gjë shkojë mirë. Ishte vërtet fantastike të shihje se si
+          Zoti na ka përdorur atë javë edhe pse nuk isha gati. Kemi pasur shumë
+          momente të bukura por një nga me të bukurit për mua ishte kur pata
+          mundesi të flisja me një djalë rreth moshës 16 vjec. Kisha mundësin të
+          flisja gjatë me të dhe i dhurova një bibël. Ai sapo e mori nisi ta
+          lexoj aty dhe ne lexuam pak sëbashku.
+          <br />
+          <img
+            src="timeline/greqi/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Fshati Qafë Zezë </p>
+          <br />
+          <img
+            src="timeline/greqi/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <br />
+          <p className="text-center">Fshati Selenicë</p>
+          <hr className="my-[1.5em]" />
+          <span className="text-[1.2em] text-gray-900"> Java e mësimit.</span>
+          <br />
+          Gjatë ktij simestri të parë kishim një detyrë për të përgatitur një
+          mësim dhe ta prezantonim vitit të parë. Ishte një eksperienc e
+          mrekullueshme. Ne kishim për të mësuar letren e parë të Pjetrit.
+          Ndarja e pasazheve u bë në këtë mënyrë; pasazhet e shkruara në disa
+          letra I hodhëm në një kapele dhe zgjodhëm një lëtër. Mua më ra 1
+          Pjetri 3:1-7, dhe flet per martesën. Në fillim isha I stresuar për
+          këtë pasazh por Zoti ishte I hirshem dhe cdo gjë shkojë mirë dhe mora
+          përshtypje të mira nga studentët.
+          <br />
+          <img
+            src="timeline/greqi/5.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
         </p>
       ),
     },

@@ -148,6 +148,39 @@ function MainTimeline() {
           </Button>
         </Timeline.Content>
       </Timeline.Item>
+      <Timeline.Item>
+        <Timeline.Point icon={HiCalendar} />
+        <Timeline.Content className="text-left">
+          <Timeline.Time>
+            {lang === "al" ? al.Timeline.Five.Date : en.Timeline.Five.Date}
+          </Timeline.Time>
+          <Timeline.Title>
+            {lang === "al" ? al.Timeline.Five.Title : en.Timeline.Five.Title}
+          </Timeline.Title>
+          <Timeline.Body>
+            {lang === "al" ? al.Timeline.Five.Text : en.Timeline.Five.Text}
+          </Timeline.Body>
+          <Button
+            color="gray"
+            onClick={() => {
+              setContent(
+                lang === "al"
+                  ? al.Timeline.Five.Content
+                  : en.Timeline.Five.Content
+              ),
+                setTitle(
+                  lang === "al"
+                    ? al.Timeline.Five.Title
+                    : en.Timeline.Five.Title
+                ),
+                setOpenModal(true);
+            }}
+          >
+            {lang === "al" ? "Lexo më shumë" : "Read more"}
+            <HiArrowNarrowRight className="ml-2 h-3 w-3" />
+          </Button>
+        </Timeline.Content>
+      </Timeline.Item>
 
       <MainModal
         openModal={openModal}

@@ -2,7 +2,7 @@ import { Carousel } from "flowbite-react";
 
 function MainCarusel() {
   return (
-    <div className="h-56 sm:h-[85vh] xl:h-[90vh] 2xl:h-[50vh] flex self-center ">
+    <div className="h-56 sm:h-[85vh] xl:h-[90vh] 2xl:h-[50vh] flex mt-[2em] ">
       <Carousel slideInterval={2500}>
         {Array(10)
           .fill()
