@@ -3,7 +3,7 @@ export const en = {
     'Matthew 7:12 "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."',
   About: {
     Title: "About me",
-    Text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequatur mollitia ipsum deserunt? A perspiciatis beatae praesentium omnis harum asperiores modi sunt facilis iste, provident magnam officia corporis dolore sed.",
+    Text: " Hello!👋My name is Aleksandro, I am 23 years old and this is the testimony of God's grace and love poured into my life.",
     Content: (
       <p>
         Hello!👋 <br /> My name is Aleksandro, I am 23 years old and this is the
@@ -171,9 +171,127 @@ export const en = {
       ),
     },
     Third: {
-      Title: "Shkolla biblike, viti i tretë.",
-      Content:
-        "Vitin e tretë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+      Title: "Second week of the mission.",
+      Date: "February 2023",
+      Text: " In the second semester, I had the opportunity to be in a town not far from Erseka, Leskovik. Leskovik is a town in the southeast of Albania, on the border with Greece.",
+      Content: (
+        <p>
+          In the second semester, I had the opportunity to be in a town not far
+          from Erseka, Leskovik. Leskovik is a town in the southeast of Albania,
+          on the border with Greece. It is a very poor town and there is a
+          church with only 1 Christian in the whole town. It is very difficult
+          for him and his son to be organizing services there. In this country
+          we had the opportunity to serve more with children and a little with a
+          group of teenagers. While the adults were very indifferent to us. It
+          seems that Leskovik has closed hearts to the gospel. But we want to
+          trust God that he will break their heart and bring them closer to him.
+          <img
+            src="timeline/java2/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/5.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/6.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/7.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Children's program </p>
+          <br />
+          <img
+            src="timeline/java2/8.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Youth's program </p>
+          <br />
+          <img
+            src="timeline/java2/9.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Leskovik Team</p>
+          <br />
+        </p>
+      ),
+    },
+    Forth: {
+      Title: "Bilisht ",
+      Date: "July-June 2023",
+      Text: "During the summer of 2023, I had the opportunity to serve 2 months (June-July) in the church in Bilisht. The church of Bilishti is a stable church and they are involved in many different ministries.",
+      Content: (
+        <p>
+          During the summer of 2023, I had the opportunity to serve 2 months
+          (June-July) in the church in Bilisht. The church of Bilishti is a
+          stable church and they are involved in many different ministries.
+          During the summer they have organized 3 camps, day camp for children,
+          day camp for pre-youth and camp for young people. Also, during these
+          two months, they have continued with other weekly services that they
+          are involved in. Some of those ministries are: Women's meeting, men's
+          meeting, children's meeting, youth meeting, youth meeting, Bible
+          study, service in villages, etc. It's been a wonderful time for me. I
+          am grateful to God for this opportunity I had to serve Him. <br />
+          Below you will find a video of the children's camp. <br />
+          <a
+            href="https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk"
+            style={{ textDecoration: "underline" }}
+          >
+            https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk
+          </a>
+          <img
+            src="timeline/bilisht/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Staff and associates </p>
+          <br />
+          <img
+            src="timeline/bilisht/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">The drama play of Jesus </p>
+          <br />
+          <img
+            src="timeline/bilisht/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Youth Camp </p>
+          <br />
+          <img
+            src="timeline/bilisht/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Sharing stories from the bible </p>
+          <br />
+        </p>
+      ),
     },
   },
 };
@@ -183,7 +301,7 @@ export const al = {
     'Mateu 7:12 "Gjithçka, pra, që ju dëshironi t\'ju bëjnë njerëzit, ua bëni edhe ju atyre, sepse ky është ligji dhe profetët."',
   About: {
     Title: "Rreth meje",
-    Text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequatur mollitia ipsum deserunt? A perspiciatis beatae praesentium omnis harum asperiores modi sunt facilis iste, provident magnam officia corporis dolore sed.",
+    Text: "Përshendetje!👋Unë quhem Aleksandro,jam 23 vjec dhe kjo është dëshmia e hirit dhe dashuris së Perendise e derdhur në jetën time.",
     Content: (
       <p>
         Përshendetje!👋 <br /> Unë quhem Aleksandro,jam 23 vjec dhe kjo është
@@ -299,7 +417,7 @@ export const al = {
     },
     Second: {
       Title: "Java e misionit.",
-      Date: "November 2022",
+      Date: "Nënëtor 2022",
       Text: "Shkolla ka në program 1 javë misioni për secalin semestër. Studentët ndahen në grupe të vogla dhe dërgohen ne kisha lokale përreth Shqipërisë ose jashtë saj. Për shumë student këto javë janë të preferuarat e tyre. Gjithashtu për mua kanë qenë javë të mrekullueshme, ku Zoti ka qenë duke më mësuarë shumë gjëra.",
       Content: (
         <p>
@@ -353,9 +471,130 @@ export const al = {
       ),
     },
     Third: {
-      Title: "Shkolla biblike, viti i tretë.",
-      Content:
-        "Vitin e tretë të shkollës biblike do ta përshkruaja kështu: “Perëndia më theu dhe rindërtoj zemrën time.” Ka qënë jë vit i mrekullueshëm, plot të qeshura, aventura, sfida, komunitet fantastik dhe lot. Jam falenderues për Perëndin që me anë të hirit dhe mirësis së tij, ai më ka thirrur dhe mbajtur pranë tij.",
+      Title: "Java e dytë e misionit ",
+      Date: "Shkurt 2023",
+      Text: "Në simestrin e dytë, kisha mundësin të isha në një qytezë jo larg Ersekës, Leskovik. Leskoviku është një qytezë në juglindje të Shqipërisë,në kufi me Greqin. ",
+      Content: (
+        <p>
+          Në simestrin e dytë, kisha mundësin të isha në një qytezë jo larg
+          Ersekës, Leskovik. Leskoviku është një qytezë në juglindje të
+          Shqipërisë,në kufi me Greqin. Është një qytezë shumë e varfër dhe aty
+          ndodhet një kishëmbjellje me 1 të krishterë të vetëm në të gjithë
+          qytezen. Është shumë e vështirë për të dhe djalin e tij që të jenë
+          duke organizuar shërbesa aty. Në këtë vend kemi patur mundësi të jemi
+          duke shërbyer më shumë me fëmijët dhe pak me një grup adoleshentësh.
+          Ndërsa të rriturit ishin shumë indiferentë ndaj nesh. Duket sikur
+          Leskoviku ka zemra të mbyllura për ungjillin. Por duam ti besojmë
+          Perëndisë që ai do të thyej zemrën e tyre dhe do t’i afrojë pranë
+          vetes.
+          <img
+            src="timeline/java2/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/5.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/6.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <img
+            src="timeline/java2/7.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Programi I fëmijëve </p>
+          <br />
+          <img
+            src="timeline/java2/8.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Programi i I të rinjëve </p>
+          <br />
+          <img
+            src="timeline/java2/9.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Grupi Leskovik</p>
+          <br />
+        </p>
+      ),
+    },
+    Forth: {
+      Title: "Bilisht ",
+      Date: "Qershor-Korrik 2023",
+      Text: "Gjatë verës 2023 kam patur mundësin të shërbej 2 muaj (qershor-korrik) në kishen në Bilisht. Kisha e Bilishtit është një kishë e stabilizuar dhe janë të përfshirë në shumë shërbesa të ndryshme.",
+      Content: (
+        <p>
+          Gjatë verës 2023 kam patur mundësin të shërbej 2 muaj (qershor-korrik)
+          në kishen në Bilisht. Kisha e Bilishtit është një kishë e stabilizuar
+          dhe janë të përfshirë në shumë shërbesa të ndryshme. Gjatë verës ata
+          kanë organizuar 3 kampe,kampi ditorë për fëmijë, kampi ditorë për
+          pararininë dhe kampi për të rinjtë. Gjithashtu gjatë këtyre dy muajve
+          ata kanë vazhduar dhe me shërbesat e tjera javore qe ata janë të
+          përfshirë. Disa nga ëto shërbesa janë: Takimi i grave, takimi I
+          burrave,takimi I femijëve, takimi i para të rinjve, takimi I të
+          rinjve, studimi i biblës, shërbesa në fshatra etj. Ka qenë një kohë e
+          mrekullueshme për mua. Jam falenderues Zotit për këtë mundësi që kisha
+          për t’i shërbyer Atij. <br />
+          Më poshtë do të gjeni një video të kampit të fëmijëve. <br />
+          <a
+            href="https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk"
+            style={{ textDecoration: "underline" }}
+          >
+            https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk
+          </a>
+          <img
+            src="timeline/bilisht/1.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Stafi dhe bashkëpuntorët </p>
+          <br />
+          <img
+            src="timeline/bilisht/2.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Drama e Jezusit </p>
+          <br />
+          <img
+            src="timeline/bilisht/3.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Kampi me para të rinjt </p>
+          <br />
+          <img
+            src="timeline/bilisht/4.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto"
+          />
+          <p className="text-center">Ndarja e historis nga bibla </p>
+          <br />
+        </p>
+      ),
     },
   },
 };
