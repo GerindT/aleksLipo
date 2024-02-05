@@ -9,12 +9,12 @@ function MainNavbar() {
   const [isChecked, setIsChecked] = useState(false);
   const setLang = useContext(SetLangContext);
   const handleCheckboxChange = () => {
-    isChecked ? setLang("en") : setLang("al");
+    isChecked ? setLang("al") : setLang("en");
     setIsChecked(!isChecked);
   };
   return (
     <Navbar fluid rounded>
-      <Navbar.Brand href="/">
+      <Navbar.Brand href="#about">
         <Avatar alt="User settings" img="/profile.jpg" rounded />
         <span className="self-center whitespace-nowrap text-xl font-normal ml-4 ">
           Aleks Lipo
@@ -33,16 +33,16 @@ function MainNavbar() {
               !isChecked ? "text-primary bg-teal-50" : "text-body-color"
             }`}
           >
-            <FaFlagUsa className={`mr-[6px] h-4 w-4  `} />
-            EN
+            <FaFontAwesomeFlag className={`mr-[6px] h-4 w-4  `} />
+            AL
           </span>
           <span
             className={`flex items-center space-x-[6px] rounded py-2 px-[18px] text-sm font-medium ${
               isChecked ? "text-primary bg-teal-50" : "text-body-color"
             }`}
           >
-            <FaFontAwesomeFlag className={`mr-[6px] h-4 w-4  `} />
-            Al
+            <FaFlagUsa className={`mr-[6px] h-4 w-4  `} />
+            EN
           </span>
         </label>
       </div>
@@ -51,19 +51,14 @@ function MainNavbar() {
         <Navbar.Link href="#about">
           <div className="flex flex-row self-center items-center justify-center">
             <HiUserCircle className="mr-3 h-4 w-4" />
-            About
+            {isChecked ? "Rreth meje" : "About"}
           </div>
         </Navbar.Link>
-        <Navbar.Link href="#exp">
-          <div className="flex flex-row self-center items-center justify-center">
-            <IoIosJournal className="mr-3 h-4 w-4" />
-            Experience
-          </div>
-        </Navbar.Link>
+
         <Navbar.Link href="#journey">
           <div className="flex flex-row self-center items-center justify-center">
             <FaRoad className="mr-3 h-4 w-4" />
-            Journey
+            {isChecked ? "Rrugëtimi im" : "My journey"}
           </div>
         </Navbar.Link>
         <Navbar.Link href="#">
