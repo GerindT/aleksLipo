@@ -74,16 +74,16 @@ function MainNavbar() {
                 !isChecked ? "text-primary bg-teal-50" : "text-body-color"
               }`}
             >
-              <FaFlagUsa className={`mr-[6px] h-4 w-4  `} />
-              EN
+              <FaFontAwesomeFlag className={`mr-[6px] h-4 w-4  `} />
+              AL
             </span>
             <span
               className={`flex items-center space-x-[6px] rounded py-2 px-[18px] text-sm font-medium ${
                 isChecked ? "text-primary bg-teal-50" : "text-body-color"
               }`}
             >
-              <FaFontAwesomeFlag className={`mr-[6px] h-4 w-4  `} />
-              Al
+              <FaFlagUsa className={`mr-[6px] h-4 w-4  `} />
+              EN
             </span>
           </label>
         </Navbar.Link>
