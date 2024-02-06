@@ -6,55 +6,43 @@ export const en = {
     Text: " Hello!👋My name is Aleksandro, I am 23 years old and this is the testimony of God's grace and love poured into my life.",
     Content: (
       <p>
-        Hello!👋 <br /> My name is Alexandro. I was born in the year 2000 and
-        this is the testimony of God's grace and love poured into my life.
-        <br /> I was born in a Christian family, where I was surrounded by the
-        gospel as a baby. It has been a great blessing. Despite the fact that
-        you may have been born into a Christian family, this does not give you
-        salvation, you need a personal relationship with God and a decision that
-        you make in your heart.
-        <br /> I made this decision around the age of 12. I remember that at
-        that time, even though I was young, I was going through quite a
-        depressive period, and I couldn't find my identity. I don't remember
-        much, but I do remember one verse that was a great impetus to return to
-        our Creator.
-        <br />
-        1 Corinthians 10:13
-        <br />
-        No temptation has found you but human temptation; but God is faithful
-        and will not allow you to be tempted beyond your strength, but with the
-        temptation will also give you a way out, so that you can withstand it.
-        <br /> At that time I learned to surrender every burden to God.
-        <br /> From the age of 12-14, I was bullied at school because of the
-        color of my skin. At that time I did not understand why God allowed this
-        situation in my life. In order not to worry my parents, I didn't tell
-        them anything about what was happening.
-        <br /> The way I solved things was by becoming like these people. I
-        started doing what they were doing. So, in high school I started living
-        a double life. Life in sin and life in the family and church. A real
-        hypocrite. I started having problems with alcohol and tobacco
-        consumption, pornography, unhealthy relationships with girls. On the
-        other hand, in church I was an angel. <br /> Despite the double life,
-        there were times when the Holy Spirit convinced me of sin and I repented
-        and returned. Then there were moments when I returned to sinful life.
-        But God is faithful and He has kept me. He never gave up on me. I would
-        compare my life to the story of Jonah. He tried to turn away from God,
-        but God brought him back to the path and plan He had for Jonah from the
-        beginning.
-        <br />
-        That's how I was, I was running away from God, but He with His love and
-        twig has returned me to His arms. <br /> A passage of Scripture that
-        reminds me to stay on this path is from <b> Proverbs 3:1-8 </b> <br />
-        "My son, do not forget my teachings and let your heart keep my
-        commandments, because long days, years of life and peace will be added
-        to you. May goodness and truth never fail you; tie around your neck,
-        write on the tablet of your heart; you will thus find grace and reason
-        in the eyes of God and men. Trust in God with all your heart and lean
-        not on your own judgment; acknowledge Him in all your ways, and He will
-        direct your paths. Do not keep yourself in your own eyes, fear the Lord
-        and turn away from evil; it will be healing to your nerves and
-        refreshment to your bones.”
-        <br />
+        Hello!👋 <br /> My name is Aleksandro, and my life is a testimony of
+        God’s grace and faithful lovingkindness never letting me go. I was born
+        into a Christian family in 2000, where I grew up surrounded by the
+        gospel, which has been a huge blessing. Although a person may be born
+        into a Christian family, that does not always mean they are saved. That
+        is a decision they make in their heart, and a personal relationship is
+        something they must choose to pursue. I made this decision when I was
+        about 12 years old. Even though I was young, I was going through a rough
+        time with a lot of depression, and I didn’t know who I was. I don’t
+        remember much about this time, but I do remember a verse that really
+        helped me and encouraged me to turn to Christ. It is found in 1
+        Corinthians 10:13, “No temptation has overtaken you that is not common
+        to man. God is faithful, and he will not let you be tempted beyond your
+        ability, but with the temptation he will also provide the way of escape,
+        that you may be able to endure it” (ESV). This is when I learned to
+        surrender every burden and struggle to the Lord.
+        <br /> From the age of 12-14 I experienced a lot of bullying at school
+        because of the color of my skin. It got very bad, and I didn’t
+        understand why God would allow this to happen. I didn’t tell my parents
+        how bad the situation was because I didn’t want to make them worried. My
+        solution to the problem was to become like my bullies. I began to bully
+        others in order to not be bullied by them. This went into high school,
+        where I started living a double life. I was a real hypocrite. I started
+        having problems with alcohol and tobacco consumption, pornography, and
+        unhealthy relationships with girls—all while I acted like an angel at
+        church. There were times when the Holy Spirit convicted me of this
+        double life I was living and the different sins I was pursuing, leading
+        me to turn and repent. But sooner or later I would find myself back
+        again, living in sin. But God is faithful and never gave up on me. He
+        continued to pursue me, no matter how many times I turned away from Him.
+        <br /> I could compare my life to that of Jonah, in the Bible. He tried
+        and tired to run away from God, but God chased him down and put him back
+        on the right path, fulfilling the purpose He had for him. That’s what
+        I’ve been like for my whole life: running away from God. But God, with
+        his loving discipline, has returned me to His arms. <br /> A passage of
+        Scripture that reminds me to stay on this path is from
+        <b> Proverbs 3:1-8. </b>
         This is my prayer for myself and for all believers.
         <br /> God bless you!😁
       </p>
@@ -63,17 +51,20 @@ export const en = {
   },
   Timeline: {
     First: {
-      Title: "Bible school, first year.",
+      Title: "First Year Bible School",
       Date: "September 2022 – March 2023",
-      Text: "I would describe the first year of Bible school like this: “God broke my heart and I'm rebuilding it.” It has been an amazing year, full of laughter, adventure, challenges, fantastic community and tears. I am thankful to God that through his grace and goodness, he has called me and kept me close to him.",
+      Text: " I had the opportunity to be involved in a 6-month Bible School program, from September 2022 to March 2023 and it was a wonderful experience. ",
       Content: (
         <p>
-          This is how I would describe my first year of Bible school: "God broke
-          my heart and rebuilt it." <br />
-          It's been an amazing year, full of laughter, adventure, challenges,
-          fantastic community and tears. I am thankful to God that by His grace
-          and goodness He has called me and kept me close to Him.
-          <br /> For more information you can see the link:
+          I had the opportunity to be involved in a 6-month Bible School
+          program, from September 2022 to March 2023 and it was a wonderful
+          experience. The program is designed to help you grow in your
+          relationship with God and your knowledge of Him, while providing
+          opportunities to put what you are learning into practice. It was an
+          amazing year full of laughter, tears, challenges, and mazing
+          community. I am so thankful that God called me here and brought me
+          close to Him.
+          <br /> For more information about the program visit:
           <br />
           <a
             href="https://torchbearers-albania.org/bible-school/"
@@ -84,77 +75,88 @@ export const en = {
           <br />
           <hr className="my-[1.5em]" />
           <span className="text-[1.2em] text-gray-900">Classes</span>
-          <br /> The classes were really fantastic. God has used them to break
-          me and build me up. One of my favorite classes was the lesson from the
-          book of Ecclesiastes, taught by Will Niven. I can safely say that God
-          used that lesson to break my proud heart. During this week of lessons,
-          I constantly thought about my previous life and how with my choices I
-          had strayed from God, and in the end they were "Vanities of vanities".
-          During the end of the week and the end of the book, chapter 12 was a
-          heartbreaker. What I thought was: "I want to serve the living God with
-          my whole life and I want to start right now. Because there will come a
-          time when illness, energies, maybe, and mind will allow me."
+          <br />
+          The classes I sat through during my time at Bible School really
+          impacted me. God used them to break me down and build me back up. One
+          of my favorite classes was from the book of Ecclesiastes, which was
+          taught by Will Niven. God used this class to break my proud heart and
+          show me how the choices I had been making had really pulled me away
+          from Him. Ecclesiastes talks about everything apart from God being
+          “vanity of vanities,” and by the end of the week it was like I had had
+          a heart attack. All I could think was, “I want to serve the living God
+          with my whole life, and I want to start right now. Because life is
+          short, and there may be a time when I will not be able to serve Him
+          like I can now.”
           <br />
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] text-gray-900">Local Service</span>{" "}
+          <span className="text-[1.2em] text-gray-900">Ministry</span>
           <br />
-          I had the opportunity to be a part of an amazing 6-month program
-          (September 2022 - March 2023). The Bible school program is designed to
-          help you grow in knowledge and practice. As students, we have the
-          opportunity to become part of a local ministry. One of their
-          ministries is called Iron sharp. Iron sharp is a soccer ministry that
-          focuses on sharing the gospel through sports (soccer). This was the
-          ministry I was involved in. There were many beautiful moments. It's
-          fun to play, encourage and chat with guys who love football (like me).
-          But I can say that it was very challenging for me to be faithful in
-          that ministry. From this experience I have understood that it is
-          difficult to be faithful to God. Loyalty is also a daily choice.
+          Each week during my time at Bible School I had the opportunity to be
+          involved in a ministry called Iron Sharp. Iron Sharp is a ministry
+          that shares the gospel with kids and youth through sports,
+          specifically soccer. While I served within this ministry, I got to
+          experience many beautiful moments. I loved chatting, encouraging, and
+          playing with guys who love soccer like me. Although I loved the
+          ministry, it was a challenge to remain faithful to it, and it taught
+          me that it is difficult to be faithful. Loyalty is a choice you must
+          make every day.
           <br /> <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] text-gray-900">Student Services</span>
+          <span className="text-[1.2em] text-gray-900">
+            Student Worship Services
+          </span>
           <br />
-          Thursday Service – The first thing I want to say is, I was looking
-          forward to this service. It was one of my favorite things about Bible
-          school. Thursday's service focused on students' worship and testimony.
-          The reason it was one of my favorite times was because, I believe that
-          God speaks to our hearts through people, also, when we share our
-          lives, it helps grow the community. The entire time during this
-          service is student-led.
-          <br /> Sunday Service – Also like the Thursday service, this service
-          is student-led. It focuses on the worship and presentation of the
-          teacher that will be for the following week.
+          At Bible School one of my favorite things that I would look forward to
+          each week was the Thursday night worship service, which was led by
+          students each week. We would worship God together through song, one or
+          two of the students would share their testimony, we’d have a time of
+          prayer for those students, and then we would close with more worship.
+          I loved this time because I really saw God speaking to my heart and my
+          classmates’ hearts through other people’s stories and sharing with one
+          another what God has done in their lives.
+          <br /> We would also have a worship service on Sunday nights. During
+          this time, we would hear from our teacher for the next week. He would
+          either share his testimony, something God put on his heart, or
+          something God has been teaching him recently. During this time of
+          worship, the community from town and the local church would be invited
+          as well, which really helped to grow relationships and build
+          friendship with the youth from town.
         </p>
       ),
     },
     Second: {
-      Title: "Mission week.",
+      Title: "Missions Opportunities",
       Date: "November 2022",
-      Text: " The school has 1 week of mission for each semester. Students are divided into small groups and sent to local churches around Albania or abroad.",
+      Text: "  The Bible School program includes a week dedicated to missions, where students are divided into small groups and are sent out to local churches in Albania and neighboring countries, once in first semester and once in second semester. ",
       Content: (
         <p>
-          The school has 1 week of mission for each semester. Students are
-          divided into small groups and sent to local churches around Albania or
-          abroad. For many students these weeks are their favorite. It has also
-          been a wonderful week for me, where God has been teaching me many
-          things.
+          The Bible School program includes a week dedicated to missions, where
+          students are divided into small groups and are sent out to local
+          churches in Albania and neighboring countries, once in first semester
+          and once in second semester. For many students these two weeks are the
+          highlight of their Bible School time. I learned many things through
+          both of my missions weeks, and I truly had a wonderful time.
           <br />
           <hr className="my-[1.5em]" />
           <span className="text-[1.2em] text-gray-900">
-            First week of the mission
+            Missions Week First Semester
           </span>
           <br />
-          I had the opportunity to serve for 9 days in a village called Dushk,
-          in the city of Lushnje. For several years, now in Dushk, Tobi and
-          Mandi, together with their families, are trying to plant a church.
-          They have a small building where they are holding their meetings, such
-          as: main service, youth meeting, children's meeting, etc. During this
-          week we had the opportunity to be part of their services. It was
-          fantastic to work with young people and children. Our focus was more
-          on the youth. We also had the opportunity to help with practical work,
-          cleaning the church premises. My favorite ministry was evangelizing in
-          another small village in Lushnje. Lushnja has about 80 villages in
-          total and meetings are held in only 3 of them. The village we went to
-          is called Zhamë. We had the opportunity to play with the village
-          children and tell a story from the Bible.
+          In November during the first semester, I had the privilege to serve
+          for nine days in a village called Dushk, near the city of Lushnje. The
+          missionaries who serve there with their families have been working on
+          planting a church for many years. They have a small building where
+          they hold weekly church services, children’s programs, youth groups,
+          and other activities. During the time I got to spend in Dushk, my team
+          and I were able to participate in these different outreaches. Our main
+          focus was on working with the youth of the area, as well as doing
+          different practical work, such as cleaning up the church and the
+          church compound. We also got to do some outreach in the smaller
+          villages of Lushnje—this was one of my favorite parts of the week.
+          There are around 80 villages under the city of Lushnje, and only three
+          of them have Christian influence working within them. We got to
+          evangelize in the village of Zhamë, a strongly Muslim village. We
+          really saw God working and had the opportunity to play with the
+          village kids and share a Bible story with them.
           <br />
           <img
             src="timeline/kidsDushk.jpg"
@@ -181,21 +183,22 @@ export const en = {
       ),
     },
     Third: {
-      Title: "Second week of the mission.",
+      Title: "Missions Week Second Semester ",
       Date: "February 2023",
-      Text: "  In the second semester, I had the opportunity to be in a town not far from Erseka, Leskovik. Leskovik is a town in the southeast of Albania, on the border with Greece.",
+      Text: "  In March, during the second semester of Bible School I went with a team to a village called Leskovik. Leskovik is in the southern part of Albania, near the boarder of Greece. ",
       Content: (
         <p>
-          In the second semester, I had the opportunity to be in a town not far
-          from Erseka, Leskovik. Leskovik is a town in the southeast of Albania,
-          on the border with Greece. It is a very poor town and there is a
-          church with only 1 Christian in the whole town. It is very difficult
-          for him and his son to be organizing services there. In this country
-          we had the opportunity to serve more with children and a little with a
-          group of teenagers. While the adults were very indifferent to us. It
-          seems that Leskovik has a closed heart to the gospel. But we want to
-          trust God that He will break their heart and bring them closer to
-          Himself.
+          In March, during the second semester of Bible School I went with a
+          team to a village called Leskovik. Leskovik is in the southern part of
+          Albania, near the boarder of Greece. It is a very poor town, and in
+          the whole village there is only one Christian who has been there for
+          many years, trying to share the gospel and bring people to Christ. It
+          is very hard for him to be there, as the town is very closed to the
+          gospel. During our week of ministry there we were able to reach the
+          children and a small group of youth, while the adults of the town were
+          indifferent towards us. We continue to pray for the people of this
+          village, that God would soften their hearts towards the gospel and
+          open their eyes to their need for Him.
           <img
             src="timeline/java2/1.jpg"
             alt="kidsDushk"
@@ -222,7 +225,7 @@ export const en = {
             className="py-[1em] mx-auto h-[22vw]"
           />
           <img
-            src="timeline/java2/6.jpg"
+            src="timeline/java2/6.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -234,14 +237,14 @@ export const en = {
           <p className="text-center">Children's program </p>
           <br />
           <img
-            src="timeline/java2/8.jpg"
+            src="timeline/java2/8.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
           <p className="text-center">Youth's program </p>
           <br />
           <img
-            src="timeline/java2/9.jpg"
+            src="timeline/java2/9.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -256,18 +259,18 @@ export const en = {
       Text: "During the summer of 2023, I had the opportunity to serve 2 months (June-July) in the church in Bilisht. The church of Bilishti is a stable church and they are involved in many different ministries.",
       Content: (
         <p>
-          During the summer of 2023, I had the opportunity to serve 2 months
-          (June-July) in the church in Bilisht. The church of Bilishti is a
-          stable church and they are involved in many different ministries.
-          During the summer they have organized 3 camps: day camp for children,
-          day camp for pre-youth and camp for young people. Also during these
-          two months they have continued with other weekly services that they
-          are involved in. Some of these ministries are: women's meeting, men's
-          meeting, children's meeting, pre-youth meeting, youth meeting, Bible
-          study, village ministry, etc. It's been a wonderful time for me. I am
-          grateful to God for this opportunity I had to serve Him.
+          During the summer of 2023, I had the opportunity to serve for two
+          months in a church in the town of Bilisht. Bilisht has a stable church
+          that has a lot of ministries attached to it. During the summer they
+          host three different camps, different VBS programs, a day camp for
+          junior high kids, and a day camp for high schoolers. During the summer
+          months they continue the weekly ministries, including a women’s
+          meeting, a men’s meeting, a children’s program, a junior high program,
+          a high school program, Bible studies, and village outreaches. It was a
+          blessing to be able to be involved in these programs and serve God
+          through them.
           <br />
-          Below you will find a video of the children's camp: <br />
+          Watch the video below to see what the summer camps were like. <br />
           <a
             href="https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk"
             style={{ textDecoration: "underline" }}
@@ -276,7 +279,7 @@ export const en = {
           </a>
           <br />
           <img
-            src="timeline/bilisht/1.jpg"
+            src="timeline/bilisht/1.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -290,14 +293,14 @@ export const en = {
           <p className="text-center">The drama play of Jesus </p>
           <br />
           <img
-            src="timeline/bilisht/3.jpg"
+            src="timeline/bilisht/3.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
           <p className="text-center">Youth Camp </p>
           <br />
           <img
-            src="timeline/bilisht/4.jpg"
+            src="timeline/bilisht/4.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -307,36 +310,32 @@ export const en = {
       ),
     },
     Five: {
-      Title: "Bible school, second year ",
+      Title: "2nd Year Bible School ",
       Date: "September 2023 – March 2024",
-      Text: "The second-year program is for anyone who has completed a first-year Bible school at any Torchbearer center and wants further study, training, and service experience in a cross-cultural setting. ",
+      Text: " The school where I attended Bible School from September 2022-March 2023 also has a 2nd year program.",
       Content: (
         <p>
-          The second-year program is for anyone who has completed a first-year
-          Bible school at any Torchbearer center and wants further study,
-          training, and service experience in a cross-cultural setting. We like
-          to compare this program to the image of a set of train tracks. One
-          rail is the Word - learning, studying and discussing. The other rail
-          is practical service - serving one another and going into the field.
-          The path under the rails is community, serving as a solid foundation -
-          experiencing together the indwelling, transforming life of Christ. It
-          is here, in this intense, life-giving and life-taking community that
-          spiritual formation takes place.
+          The school where I attended Bible School from September 2022-March
+          2023 also has a 2nd year program. It focuses on taking the foundation
+          established in the 1st year of Bible School and builds up from it by
+          diving deep into God’s word; studying and memorizing it, as well as
+          applying it to their lives in ministry and community. I am currently
+          attending this program from September 2023-March 2024, and I am
+          growing a lot!
           <hr className="my-[1.5em]" />
-          <span className="text-[1.2em] text-gray-900">Greece</span>
+          <span className="text-[1.2em] text-gray-900">Trip to Greece</span>
           <br />
-          Part of the second year program are two trips to biblical
-          archaeological sites. Where we have the opportunity to see and touch
-          places where history proves the Scriptures to be true. We had the
-          opportunity this semester to go to Greece, to the places where Paul's
-          second missionary journey is recorded. The trip was for 5 days and
-          along with us we had a wonderful couple who guided us through the
-          places we were. The places we went were: Berea, Philippi,
-          Thessaloniki, Athens, Corinth, Meteora. It was wonderful listening to
-          the writing and watching it become more real. I can honestly say that,
-          my faith was strengthened more. But the favorite thing for me was the
-          friendship with Ben and Candis and deepening the camaraderie as a
-          group between sophomore year.
+          Included in the 2nd year program are two trips to ancient Biblical
+          sites where we can see and experience the places where history proves
+          the scriptures to be true. In the first semester, in November, we took
+          a trip to Greece, to follow in the footsteps of Paul’s second
+          missionary journey. The trip was five days long and we visited Berea,
+          Philippi, Thessaloniki, Athens, Corinth, and Meteora. As we saw these
+          places we also had a teacher teaching us, connecting the locations to
+          the scriptures and drawing lessons out of those passages to apply to
+          our lives. The trip was amazing, as I watched and heard the scriptures
+          become more real. I also loved the trip because of the community and
+          friendships that grew within the 2nd year student group.
           <img
             src="timeline/greqi/1.jpg"
             alt="kidsDushk"
@@ -356,22 +355,23 @@ export const en = {
       ),
     },
     Six: {
-      Title: "Mission week",
+      Title: "Missions Week",
       Date: "September 2023 – March 2024",
-      Text: " After Greece, we had a mission week on the program. We had the opportunity to go to the villages around Erseka to teach English in the village schools and then do an after school program for the children where we shared the gospel.",
+      Text: " The week after we returned from our Greece trip we had a missions week, where we were able to go out into some small villages around Erseka, the town where the Bible School is located.",
       Content: (
         <p>
-          After Greece, we had a mission week on the program. We had the
-          opportunity to go to the villages around Erseka to teach English in
-          the village schools and then do an after school program for the
-          children where we shared the gospel. We have been well received in all
-          the villages and everything is going well. It was really cool to see
-          how God used us that week even though I wasn't ready. We had many
-          beautiful moments, but one of the most beautiful for me was when I had
-          the opportunity to talk to a boy about 16 years old. I had the
-          opportunity to talk to him for a long time and I gave him a Bible. As
-          soon as he got it, I started reading it there and we read a little
-          together.
+          The week after we returned from our Greece trip we had a missions
+          week, where we were able to go out into some small villages around
+          Erseka, the town where the Bible School is located. We taught English
+          in the local schools, then invited the kids to an afterschool program
+          where we played games, shared Bible stories, and did crafts. We were
+          welcomed very well in all the villages, and it was really cool to see
+          how God used us during the week even though I wasn’t ready for it!
+          There were many moments I saw God’s hand at work, but one in
+          particular was a conversation I got to have with a boy who was about
+          16 years old. I talked to him for a long time and by the end of the
+          conversation I was able to give him a Bible. He began reading it right
+          away, and we got to read a bit together. Praise God!
           <br />
           <img
             src="timeline/greqi/3.jpg"
@@ -388,27 +388,36 @@ export const en = {
           />
           <br />
           <p className="text-center">Village Selenicë</p>
-          <hr className="my-[1.5em]" />
+          <br />
+          <img
+            src="timeline/greqi/6.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto h-[22vw]"
+          />
         </p>
       ),
     },
     Seven: {
-      Title: "Learning week",
+      Title: "Teaching Week",
       Date: "September 2023 – March 2024",
       Text: " During this first semester we had a task to prepare a lesson and present it to the first year.",
       Content: (
         <p>
-          During this first semester we had a task to prepare a lesson and
-          present it to the first year. It was a wonderful experience. We were
-          to learn the first letter of Peter. The division of the passages was
-          done in this way; we threw the passages written on several papers into
-          a hat and chose one. I came across 1 Peter 3:1-7, and it talks about
-          marriage. At first I was stressed about this passage, but God was
-          gracious and everything went well and I got good feedback from the
+          As 2nd years we also spend the whole first semester studying a book of
+          the Bible together, preparing for the last week of the semester where
+          we teach that book to the 1st year students. We were told we would be
+          teaching on the book of 1 Peter. It was split into different sections
+          and written on pieces of paper, which were then put in a hat and each
+          of us took one out. Whichever passage we pulled out would be our
+          responsibility to share with the 1st years in a 40-minute class. I got
+          1 Peter 3:1-7, a passage on marriage. At first I was stressed about
+          having this passage, but after an entire semester of studying and
+          preparation, God provided me with everything to say, and, by His
+          grace, everything went well and I got a good response from the other
           students.
           <br />
           <img
-            src="timeline/greqi/5.jpg"
+            src="timeline/learningWeek.jpg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -652,7 +661,7 @@ export const al = {
             className="py-[1em] mx-auto h-[22vw]"
           />
           <img
-            src="timeline/java2/6.jpg"
+            src="timeline/java2/6.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -664,14 +673,14 @@ export const al = {
           <p className="text-center">Programi I fëmijëve </p>
           <br />
           <img
-            src="timeline/java2/8.jpg"
+            src="timeline/java2/8.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
           <p className="text-center">Programi i I të rinjëve </p>
           <br />
           <img
-            src="timeline/java2/9.jpg"
+            src="timeline/java2/9.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -705,7 +714,7 @@ export const al = {
             https://drive.google.com/file/d/1HjUCZv7Vu458iE6RhëCKHI_BtbIU1s5_/vieë?usp=drivesdk
           </a>
           <img
-            src="timeline/bilisht/1.jpg"
+            src="timeline/bilisht/1.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -719,14 +728,14 @@ export const al = {
           <p className="text-center">Drama e Jezusit </p>
           <br />
           <img
-            src="timeline/bilisht/3.jpg"
+            src="timeline/bilisht/3.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
           <p className="text-center">Kampi me para të rinjt </p>
           <br />
           <img
-            src="timeline/bilisht/4.jpg"
+            src="timeline/bilisht/4.jpeg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />
@@ -817,7 +826,12 @@ export const al = {
           />
           <br />
           <p className="text-center">Fshati Selenicë</p>
-          <hr className="my-[1.5em]" />
+          <br />
+          <img
+            src="timeline/greqi/6.jpg"
+            alt="kidsDushk"
+            className="py-[1em] mx-auto h-[22vw]"
+          />
         </p>
       ),
     },
@@ -837,7 +851,7 @@ export const al = {
           përshtypje të mira nga studentët.
           <br />
           <img
-            src="timeline/greqi/5.jpg"
+            src="timeline/learningWeek.jpg"
             alt="kidsDushk"
             className="py-[1em] mx-auto h-[22vw]"
           />

@@ -22,10 +22,10 @@ function MainFooter() {
           </div>
         </Footer.Link>
         <div className="flex justify-center">
-          <Footer.Link href="#">
+          <Footer.Link href="https://www.instagram.com/aleks.lipo/">
             <FaFacebook size={20} />
           </Footer.Link>
-          <Footer.Link href="#">
+          <Footer.Link href="https://www.facebook.com/aleks.lipo.9">
             <FaInstagram size={20} />
           </Footer.Link>
         </div>

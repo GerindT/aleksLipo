@@ -24,9 +24,9 @@ function App() {
           {lang === "al" ? al.Quote : en.Quote}
         </Blockquote>
         <div className=" grid grid-cols-1 gap-[2em] mb-[2em]">
-          <MainCarusel folder={"carusel"} />
+          <MainCarusel folder={"firstslide"} length={15} />
           <MainTimeline />
-          <MainCarusel folder={"carusel"} />
+          <MainCarusel folder={"secondslide"} length={10} />
           <SecondTimeline />
           <About />
           {/* <InfoSection /> */}
