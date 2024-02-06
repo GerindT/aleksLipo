@@ -51,14 +51,14 @@ function MainNavbar() {
         <Navbar.Link href="#about">
           <div className="flex flex-row self-center items-center justify-center">
             <HiUserCircle className="mr-3 h-4 w-4" />
-            {isChecked ? "Rreth meje" : "About"}
+            {isChecked ? "About" : "Rreth meje"}
           </div>
         </Navbar.Link>
 
         <Navbar.Link href="#journey">
           <div className="flex flex-row self-center items-center justify-center">
             <FaRoad className="mr-3 h-4 w-4" />
-            {isChecked ? "Rrugëtimi im" : "My journey"}
+            {isChecked ? "My journey" : "Rrugëtimi im"}
           </div>
         </Navbar.Link>
         <Navbar.Link href="#">
