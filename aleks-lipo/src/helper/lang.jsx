@@ -161,21 +161,21 @@ export const en = {
           <img
             src="timeline/kidsDushk.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">The program of children in Dushk</p>
           <br />
           <img
             src="timeline/squadDushk.jpg"
             alt="squadDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Dushk's Squad</p>
           <br />
           <img
             src="timeline/ungjilliDushk.jpg"
             alt="ungjilliDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Evangelization in Zhame</p>
           <br />
@@ -200,53 +200,23 @@ export const en = {
           village, that God would soften their hearts towards the gospel and
           open their eyes to their need for Him.
           <img
-            src="timeline/java2/1.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/2.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/3.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/4.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/5.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
             src="timeline/java2/6.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/7.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Children's program </p>
           <br />
           <img
             src="timeline/java2/8.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Youth's program </p>
           <br />
           <img
             src="timeline/java2/9.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Leskovik Team</p>
           <br />
@@ -281,28 +251,28 @@ export const en = {
           <img
             src="timeline/bilisht/1.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Staff and associates </p>
           <br />
           <img
             src="timeline/bilisht/2.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">The drama play of Jesus </p>
           <br />
           <img
             src="timeline/bilisht/3.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Youth Camp </p>
           <br />
           <img
             src="timeline/bilisht/4.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Sharing stories from the bible </p>
           <br />
@@ -339,7 +309,7 @@ export const en = {
           <img
             src="timeline/greqi/1.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <br />
           <p className="text-center">Athens</p>
@@ -347,7 +317,7 @@ export const en = {
           <img
             src="timeline/greqi/2.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">The synagogue of the Jews in Bera</p>
           <hr className="my-[1.5em]" />
@@ -384,16 +354,11 @@ export const en = {
           <img
             src="timeline/greqi/4.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <br />
           <p className="text-center">Village Selenicë</p>
           <br />
-          <img
-            src="timeline/greqi/6.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
         </p>
       ),
     },
@@ -419,7 +384,7 @@ export const en = {
           <img
             src="timeline/learningWeek.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
         </p>
       ),
@@ -597,21 +562,21 @@ export const al = {
           <img
             src="timeline/kidsDushk.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw] "
+            className="py-[1em] mx-auto md:h-[22vw] "
           />
           <p className="text-center">Programi I femijeve ne Dushk</p>
           <br />
           <img
             src="timeline/squadDushk.jpg"
             alt="squadDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Skuadra Dushk</p>
           <br />
           <img
             src="timeline/ungjilliDushk.jpg"
             alt="ungjilliDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Ungjillizimi në Zhame</p>
           <br />
@@ -636,53 +601,23 @@ export const al = {
           Perëndisë që Ai do të thyej zemrën e tyre dhe do t’i afrojë pranë
           vetes.
           <img
-            src="timeline/java2/1.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/2.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/3.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/4.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/5.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
             src="timeline/java2/6.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
-          <img
-            src="timeline/java2/7.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Programi I fëmijëve </p>
           <br />
           <img
             src="timeline/java2/8.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Programi i I të rinjëve </p>
           <br />
           <img
             src="timeline/java2/9.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Grupi Leskovik</p>
           <br />
@@ -716,28 +651,28 @@ export const al = {
           <img
             src="timeline/bilisht/1.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Stafi dhe bashkëpuntorët </p>
           <br />
           <img
             src="timeline/bilisht/2.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Drama e Jezusit </p>
           <br />
           <img
             src="timeline/bilisht/3.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Kampi me para të rinjt </p>
           <br />
           <img
             src="timeline/bilisht/4.jpeg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <p className="text-center">Ndarja e historis nga bibla </p>
           <br />
@@ -779,14 +714,14 @@ export const al = {
           <img
             src="timeline/greqi/1.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <br />
           <p className="text-center">Athina</p>
           <img
             src="timeline/greqi/2.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <br />
           <p className="text-center">Snagoga e Judenjve ne Bera</p>
@@ -822,16 +757,11 @@ export const al = {
           <img
             src="timeline/greqi/4.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
           <br />
           <p className="text-center">Fshati Selenicë</p>
           <br />
-          <img
-            src="timeline/greqi/6.jpg"
-            alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
-          />
         </p>
       ),
     },
@@ -853,7 +783,7 @@ export const al = {
           <img
             src="timeline/learningWeek.jpg"
             alt="kidsDushk"
-            className="py-[1em] mx-auto h-[22vw]"
+            className="py-[1em] mx-auto md:h-[22vw]"
           />
         </p>
       ),
