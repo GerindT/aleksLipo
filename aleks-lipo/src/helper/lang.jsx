@@ -1,13 +1,13 @@
 export const en = {
   Quote:
-    'Matthew 7:12 "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."',
+    'Colossians 3:23 "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."',
   About: {
     Title: "About me",
-    Text: " Hello!👋My name is Aleksandro, I am 23 years old and this is the testimony of God's grace and love poured into my life.",
+    Text: " Hello!👋My name is Aleksandro, I am 23 years old and this is my testimony of God's grace and love poured into my life.",
     Content: (
       <p>
         Hello!👋 <br /> My name is Aleksandro, and my life is a testimony of
-        God’s grace and faithful lovingkindness never letting me go. I was born
+        God’s grace and faithful loving kindness never letting me go. I was born
         into a Christian family in 2000, where I grew up surrounded by the
         gospel, which has been a huge blessing. Although a person may be born
         into a Christian family, that does not always mean they are saved. That
@@ -326,7 +326,7 @@ export const en = {
     },
     Six: {
       Title: "Missions Week",
-      Date: "September 2023 – March 2024",
+      Date: "November 2023",
       Text: " The week after we returned from our Greece trip we had a missions week, where we were able to go out into some small villages around Erseka, the town where the Bible School is located.",
       Content: (
         <p>
@@ -364,7 +364,7 @@ export const en = {
     },
     Seven: {
       Title: "Teaching Week",
-      Date: "September 2023 – March 2024",
+      Date: "December 2023",
       Text: " During this first semester we had a task to prepare a lesson and present it to the first year.",
       Content: (
         <p>
@@ -394,7 +394,7 @@ export const en = {
 
 export const al = {
   Quote:
-    'Mateu 7:12 "Gjithçka, pra, që ju dëshironi t\'ju bëjnë njerëzit, ua bëni edhe ju atyre, sepse ky është ligji dhe profetët."',
+    'Kolosianëve 3:23 "Dhe çdo gjë që të bëni, ta bëni me dëshirë të mirë, si për Zotin dhe jo për njerëzit."',
   About: {
     Title: "Rreth meje",
     Text: "Përshendetje!👋Unë quhem Aleksandro. Kam lindur në vitin 2000 dhe kjo është dëshmia e hirit dhe dashurisë së Perëndisë e derdhur në jetën time.",
@@ -731,7 +731,7 @@ export const al = {
     },
     Six: {
       Title: "Java e misionit",
-      Date: "Shtator 2023 – Mars 2024",
+      Date: "Nëntor 2023",
       Text: "Pas Greqisë kishim në program një javë misioni. Kemi patur mundësi të shkojmë në fshatra përreth Ersekës për të dhënë mësim në anglisht në shkollat e fshatit dhe më pas të bënim një program pas mësimit për fëmijët ku dhe kemi ndarë ungjillin.",
       Content: (
         <p>
@@ -767,7 +767,7 @@ export const al = {
     },
     Seven: {
       Title: "Java e mësimit",
-      Date: "Shtator 2023 – Mars 2024",
+      Date: "Dhjetor 2023",
       Text: "Gjatë këtij semestri të parë kishim një detyrë për të përgatitur një mësim dhe t’jua prezantonim vitit të parë.",
       Content: (
         <p>
